@@ -1,4 +1,4 @@
-<h2>Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?</h2>
+<h3>Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?</h3>
 
  Artemis Financial is a financial consulting company that develops individualized financial plans for savings, retirement, investments, and insurance for their patrons.  Artemis has a REST API based software package that is in need of a security evaluation.  They have hired Global Rain to evaluate their software for potential security issues and to recommend fixes for those issues.
 
