@@ -13,6 +13,7 @@ In working through the vulnerability assessment process there was one particular
 <h3>How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?</h3>
 
 In my experience, there are several places where security can be layered in. The first is in the transport mechanism used. This includes things like securing the communication from the user to the software, the software to any data sources like databases, and between layers of the software itself.  Strategies like ensuring transport encryption is used for commincation between the users, the application, and the database.  Ensuring that authentication and authorization is in place for the applicaiton is critical.  By employing multiple layers of security, the application can be protected even if one of these layers is breached or compromised.
+In the future I would leverage the tools we learned in this class like OWASP best practices, the software security flow diagram, and the various vunlerability databases paired with the OWASP Maven plugin or similar tools to ensure that all vulnerabilities have been discovered and addressed appropriately.
 
 <h3>How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?</h3>
 
